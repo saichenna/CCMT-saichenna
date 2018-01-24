@@ -1,0 +1,1719 @@
+Running problem size 25^3 per domain until completion
+Num processors: 8
+Total number of elements: 125000
+
+To run other sizes, use -s <integer>.
+To run a fixed number of iterations, use -i <integer>.
+To run a more or less balanced region set, use -b <integer>.
+To change the relative costs of regions, use -c <integer>.
+To print out progress, use -p
+To write an output file for VisIt, use -v
+See help (-h) for more options
+
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 1, time = 1.080866e-06, dt=1.080866e-06
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 2, time = 2.377904e-06, dt=1.297039e-06
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 3, time = 2.822480e-06, dt=4.445754e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 4, time = 3.193735e-06, dt=3.712550e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+cycle = 5, time = 3.524694e-06, dt=3.309595e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 6, time = 3.832005e-06, dt=3.073109e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 7, time = 4.124179e-06, dt=2.921735e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 8, time = 4.406386e-06, dt=2.822079e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 9, time = 4.682131e-06, dt=2.757442e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+cycle = 10, time = 4.953986e-06, dt=2.718557e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 11, time = 5.280213e-06, dt=3.262268e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 12, time = 5.648540e-06, dt=3.683269e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 13, time = 5.996727e-06, dt=3.481873e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 14, time = 6.324858e-06, dt=3.281304e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+cycle = 15, time = 6.632912e-06, dt=3.080540e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+cycle = 16, time = 6.927008e-06, dt=2.940959e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 17, time = 7.212339e-06, dt=2.853312e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 18, time = 7.493366e-06, dt=2.810266e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 19, time = 7.774348e-06, dt=2.809824e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 20, time = 8.055330e-06, dt=2.809824e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+cycle = 21, time = 8.336313e-06, dt=2.809824e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 22, time = 8.617295e-06, dt=2.809824e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 23, time = 8.898278e-06, dt=2.809824e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 24, time = 9.209282e-06, dt=3.110043e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 25, time = 9.520286e-06, dt=3.110043e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 26, time = 9.831291e-06, dt=3.110043e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 27, time = 1.018578e-05, dt=3.544907e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 28, time = 1.054027e-05, dt=3.544907e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 29, time = 1.096360e-05, dt=4.233275e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+cycle = 30, time = 1.144398e-05, dt=4.803817e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 31, time = 1.190515e-05, dt=4.611658e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+cycle = 32, time = 1.235074e-05, dt=4.455908e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 33, time = 1.278563e-05, dt=4.348902e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+cycle = 34, time = 1.321358e-05, dt=4.279490e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 35, time = 1.363840e-05, dt=4.248190e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 36, time = 1.406321e-05, dt=4.248190e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 37, time = 1.448803e-05, dt=4.248190e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 38, time = 1.491285e-05, dt=4.248190e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 39, time = 1.533767e-05, dt=4.248190e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+cycle = 40, time = 1.581371e-05, dt=4.760418e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 41, time = 1.628976e-05, dt=4.760418e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 42, time = 1.676580e-05, dt=4.760418e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+cycle = 43, time = 1.724184e-05, dt=4.760418e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+cycle = 44, time = 1.771788e-05, dt=4.760418e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 45, time = 1.819012e-05, dt=4.722347e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+cycle = 46, time = 1.865231e-05, dt=4.621944e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+cycle = 47, time = 1.910592e-05, dt=4.536127e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 48, time = 1.955250e-05, dt=4.465768e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 49, time = 1.999352e-05, dt=4.410232e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+cycle = 50, time = 2.043061e-05, dt=4.370853e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 51, time = 2.086534e-05, dt=4.347274e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 52, time = 2.129970e-05, dt=4.343681e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+cycle = 53, time = 2.173407e-05, dt=4.343681e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 54, time = 2.216844e-05, dt=4.343681e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+cycle = 55, time = 2.260281e-05, dt=4.343681e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+cycle = 56, time = 2.303718e-05, dt=4.343681e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 57, time = 2.347154e-05, dt=4.343681e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 58, time = 2.395266e-05, dt=4.811186e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 59, time = 2.443378e-05, dt=4.811186e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 60, time = 2.496630e-05, dt=5.325232e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 61, time = 2.549883e-05, dt=5.325232e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 62, time = 2.609333e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 63, time = 2.668782e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 64, time = 2.728232e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+cycle = 65, time = 2.787682e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+cycle = 66, time = 2.847132e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+cycle = 67, time = 2.906582e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+cycle = 68, time = 2.966032e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+cycle = 69, time = 3.025481e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 70, time = 3.084931e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 71, time = 3.144381e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+cycle = 72, time = 3.203831e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+cycle = 73, time = 3.263281e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+cycle = 74, time = 3.322730e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 75, time = 3.382180e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 76, time = 3.441630e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+cycle = 77, time = 3.501080e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 78, time = 3.560530e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 79, time = 3.619980e-05, dt=5.944982e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 80, time = 3.679337e-05, dt=5.935779e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 81, time = 3.737518e-05, dt=5.818038e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 82, time = 3.794689e-05, dt=5.717102e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+cycle = 83, time = 3.851034e-05, dt=5.634545e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 84, time = 3.906732e-05, dt=5.569822e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 85, time = 3.961961e-05, dt=5.522864e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+cycle = 86, time = 4.016888e-05, dt=5.492729e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 87, time = 4.071675e-05, dt=5.478670e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 88, time = 4.126462e-05, dt=5.478670e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 89, time = 4.181248e-05, dt=5.478670e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 90, time = 4.236035e-05, dt=5.478670e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 91, time = 4.290822e-05, dt=5.478670e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 92, time = 4.345609e-05, dt=5.478670e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 93, time = 4.400395e-05, dt=5.478670e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 94, time = 4.455182e-05, dt=5.478670e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 95, time = 4.517174e-05, dt=6.199164e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+cycle = 96, time = 4.579165e-05, dt=6.199164e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+cycle = 97, time = 4.648389e-05, dt=6.922415e-07
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 98, time = 4.717614e-05, dt=6.922415e-07
+code uses allreduce in timeincrement operation 
+hello 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+code uses allreduce in timeincrement operation 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+hello 
+cycle = 99, time = 4.786838e-05, dt=6.922415e-07
+code uses allreduce in timeincrement operation 
+hello 
+cycle = 100, time = 4.863948e-05, dt=7.711028e-07
+Run completed:  
+   Problem size        =  25 
+   MPI tasks           =  8 
+   Iteration count     =  100 
+   Final Origin Energy = 6.123481e+06 
+   Testing Plane 0 of Energy Array on rank 0:
+        MaxAbsDiff   = 8.149073e-10
+        TotalAbsDiff = 3.687696e-09
+        MaxRelDiff   = 6.513217e-13
+
+
+Elapsed time         =       4.49 (s)
+Grind time (us/z/c)  =  2.8709689 (per dom)  (0.35887112 overall)
+FOM                  =  2786.5157 (z/s)
+
